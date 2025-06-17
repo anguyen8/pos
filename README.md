@@ -189,4 +189,4 @@ Explore POS explanations live: **[Interactive Tabular XAI](https://huggingface.c
 
 ---
 
-<p align="center">♥  Happy researching & building!  ♥</p>
+<p align="center">♥  Please reach out to nguyengiangbkhn@gmail.com for any inquiries  ♥</p>
