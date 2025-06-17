@@ -27,7 +27,7 @@
   </p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18545-b31b1b.svg)](https://arxiv.org/abs/2412.12386)
-[![Interface](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/spaces/luulinh90s/Interactive-Tabular-XAI)
+[![Interface](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/luulinh90s/Interactive-Tabular-XAI)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 </div>
 
