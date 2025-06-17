@@ -155,13 +155,13 @@ sh prepare_samples.sh
 
 # 2. Experiments
 # 2a. Preference (clearer reasoning?)
-sh run_preference.sh         # (placeholder)
+sh run_preference.sh     
 
 # 2b. Forward Simulation (given explanation, predict model answer)
-sh run_forward_sim.sh        # (placeholder)
+sh run_forward_sim.sh   
 
 # 2c. Model Prediction Debugging (is prediction correct?)
-sh run_debugging.sh          # (placeholder)
+sh run_debugging.sh      
 ```
 </details>
 
